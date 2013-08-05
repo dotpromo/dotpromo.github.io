@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec1af59-cbc0-463c-a840-daba2d450ff6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promo-github/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/promo-github/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/assets/javascripts/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb" afterPath="$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/stylesheets/master.css.scss" afterPath="$PROJECT_DIR$/assets/stylesheets/master.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss" afterPath="$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/stylesheets/master.css" afterPath="$PROJECT_DIR$/assets/stylesheets/master.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dotpromo.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375700804480" ignored="false" />
     <file path="/application.js" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375698627113" ignored="false" />
     <file path="/master.css.scss" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375701479962" ignored="false" />
-    <file path="/index.html.erb" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375701525495" ignored="false" />
+    <file path="/index.html.erb" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375701987204" ignored="false" />
     <file path="/application.html.erb" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375455693023" ignored="false" />
     <file path="/routes.rb" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375453059448" ignored="false" />
     <file path="/Dummy.txt" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375696250264" ignored="false" />
     <file path="$PROJECT_DIR$/promo-github/log/development.log" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375696250264" ignored="false" />
-    <file path="/master.css" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375697893616" ignored="false" />
+    <file path="/master.css" changelist="0ec1af59-cbc0-463c-a840-daba2d450ff6" time="1375702201997" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="79" selection-start="5219" selection-end="5219" vertical-scroll-proportion="-14.958333">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="24" selection-start="3398" selection-end="3474" vertical-scroll-proportion="-17.458334">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="master.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="master.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="27" selection-start="0" selection-end="5880" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="master.css.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="1" selection-start="5869" selection-end="5869" vertical-scroll-proportion="0.9423077">
+            <state line="119" column="22" selection-start="5706" selection-end="5706" vertical-scroll-proportion="1.8653846">
               <folding />
             </state>
           </provider>
@@ -79,19 +49,36 @@
       <file leaf-file-name="master.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="25" selection-start="5426" selection-end="5426" vertical-scroll-proportion="0.0">
+            <state line="47" column="21" selection-start="3125" selection-end="3125" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#1976#2639#2" expanded="true" />
-                <marker date="1375701832000" expanded="true" signature="5401:5424" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/promo-github/app/assets/javascripts/application.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="16" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.0">
+            <state line="123" column="32" selection-start="4808" selection-end="4808" vertical-scroll-proportion="-9.416667">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="4" selection-start="802" selection-end="802" vertical-scroll-proportion="-17.5">
               <folding />
             </state>
           </provider>
@@ -120,13 +107,13 @@
         <option value="$PROJECT_DIR$/promo-github/config/routes.rb" />
         <option value="$PROJECT_DIR$/promo-github/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/assets/stylesheets/master.scss" />
-        <option value="$PROJECT_DIR$/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/promo-github/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss" />
-        <option value="$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/stylesheets/master.css" />
         <option value="$PROJECT_DIR$/assets/stylesheets/master.css.scss" />
+        <option value="$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb" />
+        <option value="$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss" />
+        <option value="$PROJECT_DIR$/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/assets/stylesheets/master.css" />
       </list>
     </option>
   </component>
@@ -189,11 +176,109 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="promo-github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="promo-github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="promo-github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="promo-github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dotpromo.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -390,54 +475,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/javascripts/application.js">
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="712" selection-end="712" vertical-scroll-proportion="0.5628518">
+        <state line="131" column="1" selection-start="5869" selection-end="5869" vertical-scroll-proportion="0.9423077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/promo-github/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="16" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.0">
+        <state line="38" column="16" selection-start="0" selection-end="1700" vertical-scroll-proportion="0.60600376">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="24" selection-start="3398" selection-end="3474" vertical-scroll-proportion="-17.458334">
+        <state line="28" column="4" selection-start="802" selection-end="802" vertical-scroll-proportion="-17.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="79" selection-start="5219" selection-end="5219" vertical-scroll-proportion="-14.958333">
+        <state line="123" column="32" selection-start="4808" selection-end="4808" vertical-scroll-proportion="-9.416667">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="25" selection-start="5426" selection-end="5426" vertical-scroll-proportion="0.0">
+        <state line="47" column="21" selection-start="3125" selection-end="3125" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#1976#2639#2" expanded="true" />
-            <marker date="1375701832000" expanded="true" signature="5401:5424" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="27" selection-start="0" selection-end="5880" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="1" selection-start="5869" selection-end="5869" vertical-scroll-proportion="0.9423077">
+        <state line="119" column="22" selection-start="5706" selection-end="5706" vertical-scroll-proportion="1.8653846">
           <folding />
         </state>
       </provider>

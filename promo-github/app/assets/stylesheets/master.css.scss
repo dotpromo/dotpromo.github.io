@@ -122,6 +122,15 @@ body {
   display: none;
   @include tiny-shadow;
 }
+hr {
+  margin: 17px 0 18px;
+  height: 0;
+  clear: both;
+  border: solid #ddd;
+  border-width: 1px 0 0;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #fff;
+}
 @media (min-width: 992px) {
   .item.promo {
       h1 {
