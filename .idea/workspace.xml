@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec1af59-cbc0-463c-a840-daba2d450ff6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb" afterPath="$PROJECT_DIR$/promo-github/app/views/landing/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss" afterPath="$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/stylesheets/master.css" afterPath="$PROJECT_DIR$/assets/stylesheets/master.css" />
     </list>
     <ignored path="dotpromo.github.io.iws" />
@@ -37,21 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="master.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="master.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="22" selection-start="5706" selection-end="5706" vertical-scroll-proportion="1.8653846">
+            <state line="119" column="22" selection-start="5706" selection-end="5706" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="master.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="master.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="21" selection-start="3125" selection-end="3125" vertical-scroll-proportion="0.0">
+            <state line="76" column="79" selection-start="5004" selection-end="5004" vertical-scroll-proportion="2.3076923">
               <folding>
-                <element signature="e#1976#2639#2" expanded="true" />
+                <element signature="e#2034#2697#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -510,19 +507,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css">
+    <entry file="file://$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="21" selection-start="3125" selection-end="3125" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1976#2639#2" expanded="true" />
-          </folding>
+        <state line="119" column="22" selection-start="5706" selection-end="5706" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/promo-github/app/assets/stylesheets/master.css.scss">
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/master.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="22" selection-start="5706" selection-end="5706" vertical-scroll-proportion="1.8653846">
-          <folding />
+        <state line="76" column="79" selection-start="5004" selection-end="5004" vertical-scroll-proportion="2.3076923">
+          <folding>
+            <element signature="e#2034#2697#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
