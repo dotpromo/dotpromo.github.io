@@ -1,8 +1,7 @@
-
 $( document ).ready(function() {
     (function() {
         // Hide the elements initially
-        var lis = $('.item').hide().addClass('animated bounceInUp');
+        var lis = $('.item').hide();
 
         // When some anchor tag is clicked. (Being super generic here)
         $('.item').ready(function() {
@@ -14,10 +13,8 @@ $( document ).ready(function() {
             // jQuery will return an empty object, and not continue
             // to fadeIn.
             (function displayImages() {
-                lis.eq(i++).fadeIn(200, displayImages);
+                lis.eq(i++).fadeIn(200, displayImages).addClass('animated fadeInLeft');
             })();
         });
     })();
 });
-
-
