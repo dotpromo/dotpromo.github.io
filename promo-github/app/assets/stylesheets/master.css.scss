@@ -43,7 +43,8 @@ body {
   background: #f1f1f1;
   font-family: 'Open Sans', sans-serif;
 }
-.row {
+.container  {
+  margin-bottom: 20px;
 }
 .item  {
   margin-top: 20px;
@@ -113,6 +114,13 @@ body {
 }
 .tag {
   color:#666 ;
+}
+.backtotop {
+  position: fixed;
+  bottom: 20px;
+  right: -3px;
+  display: none;
+  @include tiny-shadow;
 }
 @media (min-width: 992px) {
   .item.promo {

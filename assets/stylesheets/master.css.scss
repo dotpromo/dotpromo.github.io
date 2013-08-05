@@ -1,6 +1,6 @@
-@import "bootstrap.css";
-@import "animate.min.css";
-
+// Place all the styles related to the landing controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
 @mixin tiny-shadow {
   -moz-box-shadow: 1px 1px 5px -1px #ccc;
   -webkit-box-shadow: 1px 1px 5px -1px #ccc;
@@ -24,7 +24,7 @@
   background: -o-linear-gradient(top,  #ededed 0%,#f6f6f6 53%,#ffffff 100%);
   background: -ms-linear-gradient(top,  #ededed 0%,#f6f6f6 53%,#ffffff 100%);
   background: linear-gradient(to bottom,  #ededed 0%,#f6f6f6 53%,#ffffff 100%);
-  //filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#ffffff',GradientType=0 );
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#ffffff',GradientType=0 );
 
 }
 @mixin darkest-grey-grad {
@@ -36,22 +36,20 @@
   background: -o-linear-gradient(top,  #373737 0%,#2c2c2c 100%);
   background: -ms-linear-gradient(top,  #373737 0%,#2c2c2c 100%);
   background: linear-gradient(to bottom,  #373737 0%,#2c2c2c 100%);
-  //filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#373737', endColorstr='#2c2c2c',GradientType=0 );
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#373737', endColorstr='#2c2c2c',GradientType=0 );
 
 }
 body {
   background: #f1f1f1;
   font-family: 'Open Sans', sans-serif;
 }
-.container {
+.container  {
   margin-bottom: 20px;
-}
-.row {
 }
 .item  {
   margin-top: 20px;
   background: #fff;
- @include tiny-shadow;
+  @include tiny-shadow;
   padding-bottom: 10px;
   min-height: 200px;
   max-height: 200px;
@@ -117,13 +115,18 @@ body {
 .tag {
   color:#666 ;
 }
-
-
+.backtotop {
+  position: fixed;
+  bottom: 20px;
+  right: -3px;
+  display: none;
+  @include tiny-shadow;
+}
 @media (min-width: 992px) {
   .item.promo {
-      h1 {
-        font-size: 21px;
-        margin: 20px;
-      }
+    h1 {
+      font-size: 21px;
+      margin: 20px;
+    }
   }
 }

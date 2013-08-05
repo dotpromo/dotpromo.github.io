@@ -33,6 +33,14 @@ $( document ).ready(function() {
             })();
         });
     })();
+    $('.backtotop').click(function(e){ $('html, body').animate({scrollTop:0}, 'slow'); e.preventDefault(); });
+    $(window).scroll(function() {
+        if ($(this).scrollTop()) {
+            $('.backtotop').fadeIn();
+        } else {
+            $('.backtotop').fadeOut();
+        }
+    });
 });
 
 
