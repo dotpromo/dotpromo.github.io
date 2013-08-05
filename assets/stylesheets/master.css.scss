@@ -98,6 +98,8 @@ body {
       border: 1px solid #fff;
       &:hover {
         @include medium-grey-grad;
+        margin-top: 10px;
+        margin-bottom: 10px;
         .header {
           background: none;
           border-bottom: 1px solid #ddd;

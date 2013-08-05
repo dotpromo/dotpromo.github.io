@@ -69,7 +69,9 @@ body {
     background: -webkit-linear-gradient(top, #ededed 0%, #f6f6f6 53%, white 100%);
     background: -o-linear-gradient(top, #ededed 0%, #f6f6f6 53%, white 100%);
     background: -ms-linear-gradient(top, #ededed 0%, #f6f6f6 53%, white 100%);
-    background: linear-gradient(to bottom, #ededed 0%, #f6f6f6 53%, #ffffff 100%); }
+    background: linear-gradient(to bottom, #ededed 0%, #f6f6f6 53%, #ffffff 100%);
+    margin-top: 10px;
+    margin-bottom: 10px;}
 .row.content .item:hover .header {
     background: none;
     border-bottom: 1px solid #ddd; }
