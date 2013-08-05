@@ -1,11 +1,14 @@
 @import url(bootstrap.css);
 @import url(animate.min.css);
+
 body {
     background: #f1f1f1;
-    font-family: 'Open Sans', sans-serif; }
+    font-family: 'Open Sans', sans-serif;
+}
 
 .container {
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+}
 
 .item {
     margin-top: 20px;
@@ -19,9 +22,13 @@ body {
     -webkit-transition: .2s all linear;
     -moz-transition: .2s all linear;
     -o-transition: .2s all linear;
-    transition: .2s all linear; }
+    transition: .2s all linear;
+}
+
 .item h1, .item p {
-    margin: 0; }
+    margin: 0;
+}
+
 .item .header {
     background: #fefefe;
     background: -moz-linear-gradient(top, #fefefe 0%, #f9f9f9 5%, #f9f9f9 15%, #fbfbfb 17%, #f9f9f9 20%, #fafafa 27%, whitesmoke 78%, whitesmoke 98%, #fcfcfc 100%);
@@ -32,12 +39,18 @@ body {
     background: linear-gradient(to bottom, #fefefe 0%, #f9f9f9 5%, #f9f9f9 15%, #fbfbfb 17%, #f9f9f9 20%, #fafafa 27%, #f5f5f5 78%, #f5f5f5 98%, #fcfcfc 100%);
     text-shadow: 1px 1px 0 #fff;
     padding: 10px;
-    border-bottom: 1px solid #f1f1f1; }
+    border-bottom: 1px solid #f1f1f1;
+}
+
 .item .header h1 {
-    font-size: 24px; }
+    font-size: 24px;
+}
+
 .item .body {
     padding: 10px;
-    border-top: 1px solid #fff; }
+    border-top: 1px solid #fff;
+}
+
 .item.promo {
     background: #373737;
     background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzM3MzczNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyYzJjMmMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
@@ -51,19 +64,26 @@ body {
     text-align: center;
     -moz-box-shadow: 5px 5px 0px -1px #ccc;
     -webkit-box-shadow: 5px 5px 0px -1px #ccc;
-    box-shadow: 5px 5px 0px -1px #ccc; }
+    box-shadow: 5px 5px 0px -1px #ccc;
+}
+
 .item.promo h1 {
     padding: 20px 0;
     border: 2px dotted #666;
     margin: 10px 30px;
     font-weight: 100;
     font-size: 24px;
-    color: white; }
+    color: white;
+}
+
 .item.promo img {
-    margin: 20px 0 0 0; }
+    margin: 20px 0 0 0;
+}
 
 .row.content .item {
-    border: 1px solid #fff; }
+    border: 1px solid #fff;
+}
+
 .row.content .item:hover {
     background: #ededed;
     background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2VkZWRlZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUzJSIgc3RvcC1jb2xvcj0iI2Y2ZjZmNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
@@ -74,16 +94,21 @@ body {
     background: -ms-linear-gradient(top, #ededed 0%, #f6f6f6 53%, white 100%);
     background: linear-gradient(to bottom, #ededed 0%, #f6f6f6 53%, #ffffff 100%);
     margin-top: 10px;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+}
+
 .row.content .item:hover .header {
     background: none;
-    border-bottom: 1px solid #ddd; }
+    border-bottom: 1px solid #ddd;
+}
 
 .visible {
-    display: block; }
+    display: block;
+}
 
 .tag {
-    color: #666666; }
+    color: #666666;
+}
 
 .backtotop {
     position: fixed;
@@ -92,9 +117,12 @@ body {
     display: none;
     -moz-box-shadow: 1px 1px 5px -1px #ccc;
     -webkit-box-shadow: 1px 1px 5px -1px #ccc;
-    box-shadow: 1px 1px 5px -1px #ccc; }
+    box-shadow: 1px 1px 5px -1px #ccc;
+}
 
 @media (min-width: 992px) {
     .item.promo h1 {
         font-size: 21px;
-        margin: 20px; } }
+        margin: 20px;
+    }
+}
